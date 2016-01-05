@@ -1,0 +1,40 @@
+/*xs responsive styles*/
+@media (max-width: 767px) and (min-width: 10px){
+
+	.heading{
+		line-height: 2em;
+	}
+	#overlay h1{
+		font-size: 2.5em;
+	}
+	#overlay p{
+		font-size: 1.5em;
+	}
+
+}
+
+/*sm responsive styles*/
+@media (max-width: 991px) and (min-width: 768px) {
+
+	#overlay h1{
+		font-size: 4em;
+	}
+	#overlay p{
+		font-size: 2em;
+	}
+}
+
+/*md responsive styles*/
+@media (max-width: 1199px) and (min-width: 992px){
+	
+	
+}	
+
+
+/*lg responsive styles*/
+@media  (min-width: 1200px){
+	
+
+}
+
+
